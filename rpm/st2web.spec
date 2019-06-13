@@ -12,7 +12,7 @@ Release:        %{release}
 Summary:        St2Web - StackStorm Web UI
 
 License:        Apache 2.0
-URL:            https://github.com/stackstorm/st2web
+URL:            https://github.com/Felipeoliveira2/st2web
 Source0:        st2web
 
 Prefix:         /opt/stackstorm/static/webui
